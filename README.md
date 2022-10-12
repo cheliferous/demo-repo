@@ -1,5 +1,7 @@
 # Demo
 
 Some description!
+---
 
-## Some subheader
+## Subheader
+Some text!
